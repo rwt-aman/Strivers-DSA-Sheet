@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
@@ -65,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
