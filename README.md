@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
