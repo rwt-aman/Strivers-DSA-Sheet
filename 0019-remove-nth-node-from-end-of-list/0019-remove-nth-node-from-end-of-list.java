@@ -10,74 +10,74 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if(head == null) return null;
-
-        // reverse the linked list
-        ListNode prev = null;
         ListNode curr = head;
-        ListNode forw = null;
+        int size = 0;
 
         while(curr != null){
-            forw = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = forw;
+            size++;
+            curr = curr.next;
         }
-        head = prev;
-        // Delete nth node from the start of the reversed list
-        if (n == 1) {
-            head = head.next;
-        } 
-        else {
-            ListNode temp = head;
 
-            while (n > 2) {
-                temp = temp.next;
-                n--;
-            }
-
-            if (temp != null && temp.next != null) {
-                temp.next = temp.next.next;
-            }
+        int remove = size - n;
+        if(remove == 0){
+            return head.next;
         }
-        // reverse again
-        prev = null;
         curr = head;
-        forw = null;
 
-        while(curr != null){
-            forw = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = forw;
-        }
+        for(int i=1;i<remove;i++){
+            curr = curr.next;
+        }    
 
-        return head = prev;
+        curr.next = curr.next.next;
+
+        return head;
     }
 }
 
 // class Solution {
 //     public ListNode removeNthFromEnd(ListNode head, int n) {
+//         if(head == null) return null;
+
+//         // reverse the linked list
+//         ListNode prev = null;
 //         ListNode curr = head;
-//         int size = 0;
+//         ListNode forw = null;
 
 //         while(curr != null){
-//             size++;
-//             curr = curr.next;
+//             forw = curr.next;
+//             curr.next = prev;
+//             prev = curr;
+//             curr = forw;
 //         }
+//         head = prev;
+//         // Delete nth node from the start of the reversed list
+//         if (n == 1) {
+//             head = head.next;
+//         } 
+//         else {
+//             ListNode temp = head;
 
-//         int remove = size - n;
-//         if(remove == 0){
-//             return head.next;
+//             while (n > 2) {
+//                 temp = temp.next;
+//                 n--;
+//             }
+
+//             if (temp != null && temp.next != null) {
+//                 temp.next = temp.next.next;
+//             }
 //         }
+//         // reverse again
+//         prev = null;
 //         curr = head;
+//         forw = null;
 
-//         for(int i=1;i<remove;i++){
-//             curr = curr.next;
-//         }    
+//         while(curr != null){
+//             forw = curr.next;
+//             curr.next = prev;
+//             prev = curr;
+//             curr = forw;
+//         }
 
-//         curr.next = curr.next.next;
-
-//         return head;
+//         return head = prev;
 //     }
 // }
