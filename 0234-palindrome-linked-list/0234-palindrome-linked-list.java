@@ -10,32 +10,66 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        // two pointer technique
-        
-        ListNode fast = head;
-        ListNode slow = head;
+        if(head == null || head.next == null) return true;
 
-        while(fast != null && fast.next != null){
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast.next != null && fast.next.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }
+
         ListNode prev = null;
-        while(slow != null){
-            ListNode temp = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = temp;
+        ListNode curr = slow.next;
+        ListNode forw = null;
+
+        while(curr != null){
+            forw = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = forw;
         }
-        ListNode first = head;
-        ListNode second = prev;
-        while(second != null){
-            if(first.val != second.val){
+        slow.next = null;
+
+        ListNode temp1 = head;
+        ListNode temp2 = prev;
+
+        while(temp2 != null){
+            if(temp1.val != temp2.val){
                 return false;
             }
-            first = first.next;
-            second = second.next;
+            temp1 = temp1.next;
+            temp2 = temp2.next;
         }
         return true;
+
+        // two pointer technique
+        
+        // ListNode fast = head;
+        // ListNode slow = head;
+
+        // while(fast != null && fast.next != null){
+        //     slow = slow.next;
+        //     fast = fast.next.next;
+        // }
+        // ListNode prev = null;
+        // while(slow != null){
+        //     ListNode temp = slow.next;
+        //     slow.next = prev;
+        //     prev = slow;
+        //     slow = temp;
+        // }
+        // ListNode first = head;
+        // ListNode second = prev;
+        // while(second != null){
+        //     if(first.val != second.val){
+        //         return false;
+        //     }
+        //     first = first.next;
+        //     second = second.next;
+        // }
+        // return true;
         
         // using ArrayList
 
