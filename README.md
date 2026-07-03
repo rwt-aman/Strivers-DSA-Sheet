@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
