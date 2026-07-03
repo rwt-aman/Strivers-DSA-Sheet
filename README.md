@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0148-sort-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
