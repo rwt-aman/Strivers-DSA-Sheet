@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
