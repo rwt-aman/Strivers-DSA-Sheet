@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Merge Sort
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
