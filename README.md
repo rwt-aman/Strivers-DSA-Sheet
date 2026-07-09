@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0125-valid-palindrome) |
