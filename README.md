@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0643-maximum-average-subarray-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
