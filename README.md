@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0039-combination-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
