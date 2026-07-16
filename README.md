@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0162-find-peak-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0682-baseball-game) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## String
