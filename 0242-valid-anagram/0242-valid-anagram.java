@@ -1,38 +1,37 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char[] schars = s.toCharArray();
-        char[] tchars = t.toCharArray();
+        if(s.length() != t.length()) return false;
 
-        Arrays.sort(schars);
-        Arrays.sort(tchars);
+        HashMap<Character,Integer> map = new HashMap<>();
 
-        return Arrays.equals(schars,tchars);
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            map.put(ch,map.getOrDefault(ch,0)+1);
+        }
+
+        for(int i=0;i<t.length();i++){
+            char ch = t.charAt(i);
+
+            if(!map.containsKey(ch)) return false;
+
+            map.put(ch,map.get(ch)-1);
+            if(map.get(ch) == 0){
+                map.remove(ch);
+            }
+        }
+        return map.isEmpty();
     }
 }
 
 
-
 // class Solution {
 //     public boolean isAnagram(String s, String t) {
-//         if(s.length() != t.length()) return false;
+//         char[] schars = s.toCharArray();
+//         char[] tchars = t.toCharArray();
 
-//         HashMap<Character,Integer> map = new HashMap<>();
+//         Arrays.sort(schars);
+//         Arrays.sort(tchars);
 
-//         for(int i=0;i<s.length();i++){
-//             char ch = s.charAt(i);
-//             map.put(ch,map.getOrDefault(ch,0)+1);
-//         }
-
-//         for(int i=0;i<t.length();i++){
-//             char ch = t.charAt(i);
-
-//             if(!map.containsKey(ch)) return false;
-
-//             map.put(ch,map.get(ch)-1);
-//             if(map.get(ch) == 0){
-//                 map.remove(ch);
-//             }
-//         }
-//         return map.isEmpty();
+//         return Arrays.equals(schars,tchars);
 //     }
 // }
