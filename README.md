@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0860-lemonade-change) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/2487-remove-nodes-from-linked-list) |
@@ -289,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
