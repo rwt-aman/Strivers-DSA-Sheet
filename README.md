@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
