@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1207-unique-number-of-occurrences) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1480-running-sum-of-1d-array) |
