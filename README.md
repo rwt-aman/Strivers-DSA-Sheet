@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0455-assign-cookies) |
+| [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0706-design-hashmap) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0724-find-pivot-index) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0202-happy-number) |
+| [0523-continuous-subarray-sum](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rwt-aman/Strivers-DSA-Sheet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
